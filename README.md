@@ -32,3 +32,11 @@ switch (choise){
         break;
 }
 
+rekursiv:
+function(x, y){
+    if(
+        function(x,y)
+    )
+    else()
+}
+
