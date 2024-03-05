@@ -5,7 +5,8 @@ Vorlesung mit Übung: Grundlagen der C-Programmierung (Blockkurs) (WiSe 2023/24)
 Notizen
 
 %d == int or dezimal
-%f == float or double
+%f == float
+%lf == double
 %c == char(for ASCI)
 %o == oktal
 %h == hexa
@@ -40,3 +41,5 @@ function(x, y){
     else()
 }
 
+
+when casting (int) in front for example when using pow()
