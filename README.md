@@ -10,6 +10,7 @@ Notizen
 %c == char(for ASCI)
 %o == oktal
 %h == hexa
+%ld == long int
 
 always: #include <stdio.h>
 maybe also always #include <math.h>
