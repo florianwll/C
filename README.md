@@ -44,3 +44,5 @@ function(x, y){
 
 
 when casting (int) in front for example when using pow()
+
+array = int array[n]
