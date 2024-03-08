@@ -11,6 +11,7 @@ Notizen
 %o == oktal
 %h == hexa
 %ld == long int
+%u = unsigned int
 
 always: #include <stdio.h>
 maybe also always #include <math.h>
@@ -46,3 +47,10 @@ function(x, y){
 when casting (int) in front for example when using pow()
 
 array = int array[n]
+
+pointer:
+int* p
+wert mit *(p+i)
+
+calloc(laenge, sizeof(int))
+--> free(anzahl)
