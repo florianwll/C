@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include "a04-testing.h"
 
 void change(int *a, int *b) {
     int temp = *a;
